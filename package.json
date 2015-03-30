@@ -1,0 +1,23 @@
+{
+  "name": "access-token-mongo",
+  "version": "1.0.0",
+  "description": "使用MongoDB读取和保存access_token信息",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nagucc/access-token-mongo.git"
+  },
+  "keywords": [
+    "access_token",
+    "mongodb"
+  ],
+  "author": "na57",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nagucc/access-token-mongo/issues"
+  },
+  "homepage": "https://github.com/nagucc/access-token-mongo"
+}
