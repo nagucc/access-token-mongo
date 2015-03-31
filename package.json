@@ -1,6 +1,6 @@
 {
   "name": "access-token-mongo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "使用MongoDB读取和保存access_token信息",
   "main": "index.js",
   "scripts": {
